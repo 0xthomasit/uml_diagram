@@ -2,11 +2,16 @@
 ### Description:
 Demo for all relationship types used in UML 
 
-### Reference link:
-https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples
+### Reference links:
+https://blog.algomaster.io/p/uml-class-diagram-explained-with-examples </br>
+https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-class-diagrams </br>
+https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial </br>
 
 ### Relationships in UML class diagram:
 <img width="440" height="280" alt="image" src="https://github.com/user-attachments/assets/0689b3ab-c153-4cb2-a1fd-0bd93a6d14e0" />
+<img width="356" height="330" alt="image" src="https://github.com/user-attachments/assets/06e4d05a-c674-414d-838a-36fbe3c66032" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/255ec970-5fd8-4b67-aa9d-467a6d57df70" />
+
 
 ## 1. Association:
 Association represents a **"uses-a"** relationship between two classes where one class uses or interacts with the other.</br></br>
